@@ -1,6 +1,35 @@
-# Lengua no literario
+# Lengua y literatura
 
-Trabajos de Lengua A (IB). Aquí está el ensayo literario sobre *Maus* de Art Spiegelman, con sus versiones, y las notas de lo que aprendimos para el próximo ensayo, que será no literario.
+Trabajos de Lengua A (IB). Conservamos el ensayo literario sobre *Maus* de Art Spiegelman y sus revisiones. El trabajo actual es el ensayo no literario sobre el videoclip *Niño* de Milo J.
+
+## Estado del ensayo no literario (26/10/2026)
+
+- **Corpus:** videoclip *Niño*, dirigido por Nacho A. Villar (BRBR). El análisis se centra en las imágenes.
+- **Material:** [video con audio en 1080p](video-nino/nino.mp4), [índice de fotogramas](video-nino/README.md) y [17 capturas complementarias con tiempos](video-nino/fotogramas/complementarios/contacto-01.jpg), seleccionadas mediante comparación visual y revisión de redundancias.
+- **Preparación:** [análisis y propuestas originales](notas/analisis-video-nino.md), [reglas del ENS no literario](notas/padlet-ens-no-literario.md) y [resumen de las fichas del Padlet](notas/padlet-materiales-no-literarios.md).
+- **Pendiente:** el alumno todavía debe escoger la línea de indagación. Las alternativas siguientes son propuestas, no decisiones definitivas.
+
+### Propuestas por orden de preferencia
+
+1. **Vulnerabilidad infantil entre cuidado y violencia.** ¿Cómo construye el videoclip *Niño* de Milo J la vulnerabilidad infantil mediante el contraste visual entre el cuidado y la violencia? Tesis propuesta: el cuidado fraternal funciona como refugio afectivo y la violencia amenaza ese mismo vínculo. Subtemas: refugio afectivo; amenaza dentro del vínculo protector.
+2. **El hermano como protección y riesgo.** ¿Cómo construye el videoclip *Niño* de Milo J una representación del hermano mayor como figura de protección y de exposición a la violencia? Subtemas: protección afectiva; convivencia del afecto y el peligro.
+3. **Violencia e identidad infantil.** ¿De qué manera los recursos visuales del videoclip *Niño* de Milo J representan la violencia como un ciclo que condiciona la identidad infantil? Subtemas: repetición de la pérdida; identificación con el hermano mayor.
+4. **Fe y límites del amparo.** ¿De qué manera el videoclip *Niño* de Milo J utiliza los símbolos religiosos para representar la tensión entre la búsqueda de amparo y la persistencia de la violencia? Subtemas: búsqueda de amparo; límites de la protección religiosa.
+5. **Fe persistente e impotente.** ¿De qué manera el videoclip *Niño* de Milo J permite una representación de la fe como refugio frente a la violencia? Tesis original alternativa: de manera persistente e impotente. La palabra «impotente» necesita matizarse: no impedir la muerte no equivale a carecer de valor como consuelo.
+6. **Herencia cíclica y redentora.** Línea original: ¿De qué manera el videoclip *Niño* de Milo J permite una representación de la delincuencia como herencia de la figura paterna? Tesis original: de manera cíclica y redentora. Requiere reformulación: no está demostrada una redención y la redacción parece atribuírsela a la delincuencia.
+7. **Herencia cíclica e ineludible.** Misma línea original, con esos dos subtemas. El final abierto no demuestra que sea imposible salir del ciclo.
+
+En las dos últimas, «figura paterna» se refiere al papel del hermano; no hay evidencia suficiente para atribuir delincuencia al padre.
+
+### Contexto e intención: investigación consultada el 26/10/2026
+
+- **Origen social:** Milo J creció en San José, Morón, en una familia de clase trabajadora. Describió dificultades en el barrio y el apoyo familiar como una diferencia decisiva en su trayectoria. [Entrevista de Rolling Stone](https://es.rollingstone.com/milo-j-el-vertiginoso-ascenso-del-nuevo-nino-terrible-de-la-musica/).
+- **Motivación de la canción:** explicó que buscaba ofrecer esperanza a un niño condicionado por su contexto. La composición partió de una armonía de Santiago Alvarado y presenta a un padre fallecido que aconseja a su hijo. [Entrevista de Excélsior, 27/02/2026](https://www.excelsior.com.mx/espectaculos/milo-j-transforma-presion-exito-viaje-intimo-con-vida-era-mas-corta).
+- **No es autobiografía literal:** preguntado si él era el niño, Milo lo negó y distinguió su vida de las historias de sus personajes. [Alt.Latino / NPR, 06/05/2026, transcripción en NCPR](https://www.northcountrypublicradio.org/news/npr/nx-s1-5812882/).
+- **Raíces familiares:** su bisabuela materna era santiagueña. El viaje a Santiago del Estero alimentó la búsqueda de identidad del disco. No confundir ese vínculo con su crianza en Morón. [Entrevista de Billboard Argentina](https://billboard.ar/entrevistas/milo-j-la-unica-forma-con-la-que-se-hablar-bien-es-con-la-musica/).
+- **Creación audiovisual:** Nacho A. Villar investigó historias locales; Teresa Carril describió el proyecto como una combinación de ficción y documental. *Niño* se filmó en Suncho Corral con Nicolás Campos y Nemías Suarez, adolescentes de la localidad. Esto no demuestra que los acontecimientos de la ficción les ocurrieran. [Declaraciones del equipo en Minutouno, 21/10/2025](https://www.minutouno.com/espectaculos/the-movement-impacto-la-produccion-la-vida-era-mas-corta-el-ultimo-album-milo-j-n6204239).
+
+Las entrevistas aportan contexto; el análisis debe demostrar los efectos de las decisiones visuales. Consultar las fichas [La intención del autor](padlet-textos/nolit__LA_INTENCI_N_DEL_AUTOR.txt), [Leer imágenes](padlet-textos/nolit__Leer_im_genes__Figuras_visuales_e_intenci_n_del_emisor.txt) y [Cómo se puede explicar un análisis](padlet-textos/nolit__C_MO_SE_PUEDE_EXPLICAR_UN_AN_LISIS.txt). No atribuir cada decisión audiovisual únicamente al cantante.
 
 ## Estado del ensayo de Maus
 

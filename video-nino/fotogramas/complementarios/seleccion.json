@@ -1,0 +1,965 @@
+{
+  "source": "../../nino.mp4",
+  "fps": 25,
+  "sampling": "frame 19 + 25*k, through 233.76 seconds; credits excluded",
+  "comparison": "Central crop removes labels; RGB mean absolute error <15, or 256-bit dHash distance <=56 and RGB error <30. Heuristic, not a guarantee of semantic uniqueness.",
+  "existing_reference_images": 252,
+  "selected": [
+    {
+      "file": "nino-00m08s760.jpg",
+      "seconds": 8.76,
+      "timestamp": "00:08.76"
+    },
+    {
+      "file": "nino-00m11s760.jpg",
+      "seconds": 11.76,
+      "timestamp": "00:11.76"
+    },
+    {
+      "file": "nino-01m00s760.jpg",
+      "seconds": 60.76,
+      "timestamp": "01:00.76"
+    },
+    {
+      "file": "nino-01m09s760.jpg",
+      "seconds": 69.76,
+      "timestamp": "01:09.76"
+    },
+    {
+      "file": "nino-01m33s760.jpg",
+      "seconds": 93.76,
+      "timestamp": "01:33.76"
+    },
+    {
+      "file": "nino-01m34s760.jpg",
+      "seconds": 94.76,
+      "timestamp": "01:34.76"
+    },
+    {
+      "file": "nino-02m06s760.jpg",
+      "seconds": 126.76,
+      "timestamp": "02:06.76"
+    },
+    {
+      "file": "nino-02m09s760.jpg",
+      "seconds": 129.76,
+      "timestamp": "02:09.76"
+    },
+    {
+      "file": "nino-02m12s760.jpg",
+      "seconds": 132.76,
+      "timestamp": "02:12.76"
+    },
+    {
+      "file": "nino-02m20s760.jpg",
+      "seconds": 140.76,
+      "timestamp": "02:20.76"
+    },
+    {
+      "file": "nino-02m21s760.jpg",
+      "seconds": 141.76,
+      "timestamp": "02:21.76"
+    },
+    {
+      "file": "nino-02m36s760.jpg",
+      "seconds": 156.76,
+      "timestamp": "02:36.76"
+    },
+    {
+      "file": "nino-02m37s760.jpg",
+      "seconds": 157.76,
+      "timestamp": "02:37.76"
+    },
+    {
+      "file": "nino-02m38s760.jpg",
+      "seconds": 158.76,
+      "timestamp": "02:38.76"
+    },
+    {
+      "file": "nino-02m39s760.jpg",
+      "seconds": 159.76,
+      "timestamp": "02:39.76"
+    },
+    {
+      "file": "nino-02m40s760.jpg",
+      "seconds": 160.76,
+      "timestamp": "02:40.76"
+    },
+    {
+      "file": "nino-02m47s760.jpg",
+      "seconds": 167.76,
+      "timestamp": "02:47.76"
+    }
+  ],
+  "discarded": [
+    {
+      "seconds": 0.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#0"
+    },
+    {
+      "seconds": 1.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#0"
+    },
+    {
+      "seconds": 2.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#0"
+    },
+    {
+      "seconds": 13.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#4"
+    },
+    {
+      "seconds": 14.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#4"
+    },
+    {
+      "seconds": 15.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#4"
+    },
+    {
+      "seconds": 16.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 17.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 18.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 19.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 20.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 21.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 22.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 23.76,
+      "similar_to": "ampliaciones/z01.png#0"
+    },
+    {
+      "seconds": 24.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#8"
+    },
+    {
+      "seconds": 25.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#8"
+    },
+    {
+      "seconds": 26.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#8"
+    },
+    {
+      "seconds": 27.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#9"
+    },
+    {
+      "seconds": 28.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#9"
+    },
+    {
+      "seconds": 29.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#9"
+    },
+    {
+      "seconds": 30.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#10"
+    },
+    {
+      "seconds": 31.76,
+      "similar_to": "ampliaciones/z02.png#0"
+    },
+    {
+      "seconds": 32.76,
+      "similar_to": "ampliaciones/z02.png#0"
+    },
+    {
+      "seconds": 33.76,
+      "similar_to": "ampliaciones/z02.png#0"
+    },
+    {
+      "seconds": 34.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#11"
+    },
+    {
+      "seconds": 35.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#11"
+    },
+    {
+      "seconds": 36.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#12"
+    },
+    {
+      "seconds": 37.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#12"
+    },
+    {
+      "seconds": 38.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#12"
+    },
+    {
+      "seconds": 39.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#13"
+    },
+    {
+      "seconds": 40.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#13"
+    },
+    {
+      "seconds": 41.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#13"
+    },
+    {
+      "seconds": 42.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#14"
+    },
+    {
+      "seconds": 43.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#14"
+    },
+    {
+      "seconds": 44.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#14"
+    },
+    {
+      "seconds": 45.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#15"
+    },
+    {
+      "seconds": 46.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#15"
+    },
+    {
+      "seconds": 47.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#15"
+    },
+    {
+      "seconds": 48.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#16"
+    },
+    {
+      "seconds": 49.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#16"
+    },
+    {
+      "seconds": 50.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#16"
+    },
+    {
+      "seconds": 51.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#17"
+    },
+    {
+      "seconds": 52.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#17"
+    },
+    {
+      "seconds": 53.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#17"
+    },
+    {
+      "seconds": 54.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#18"
+    },
+    {
+      "seconds": 55.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#18"
+    },
+    {
+      "seconds": 56.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#18"
+    },
+    {
+      "seconds": 58.76,
+      "similar_to": "cada-3-segundos/sheet_01.jpg#19"
+    },
+    {
+      "seconds": 59.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#19"
+    },
+    {
+      "seconds": 61.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#0"
+    },
+    {
+      "seconds": 62.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#20"
+    },
+    {
+      "seconds": 63.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 64.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 65.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 66.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 67.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 68.76,
+      "similar_to": "ampliaciones/z15.png#0"
+    },
+    {
+      "seconds": 70.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#3"
+    },
+    {
+      "seconds": 71.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 72.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 73.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#1"
+    },
+    {
+      "seconds": 74.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 75.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 76.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 77.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#25"
+    },
+    {
+      "seconds": 78.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#6"
+    },
+    {
+      "seconds": 79.76,
+      "similar_to": "ampliaciones/altar-1-20.png#0"
+    },
+    {
+      "seconds": 80.76,
+      "similar_to": "ampliaciones/altar-1-20.png#0"
+    },
+    {
+      "seconds": 81.76,
+      "similar_to": "ampliaciones/altar-1-20.png#0"
+    },
+    {
+      "seconds": 82.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#7"
+    },
+    {
+      "seconds": 83.76,
+      "similar_to": "ampliaciones/pistola-1-23.png#0"
+    },
+    {
+      "seconds": 84.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#8"
+    },
+    {
+      "seconds": 85.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#8"
+    },
+    {
+      "seconds": 86.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 87.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 88.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 89.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 90.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 91.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 92.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 95.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 96.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 97.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 98.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 99.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 100.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 101.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 102.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 103.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 104.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 105.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 106.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 107.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 108.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 109.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#16"
+    },
+    {
+      "seconds": 110.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#16"
+    },
+    {
+      "seconds": 111.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 112.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 113.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 114.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 115.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 116.76,
+      "similar_to": "ampliaciones/z10.png#0"
+    },
+    {
+      "seconds": 117.76,
+      "similar_to": "ampliaciones/z10.png#0"
+    },
+    {
+      "seconds": 118.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 119.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 120.76,
+      "similar_to": "ampliaciones/z04.png#0"
+    },
+    {
+      "seconds": 121.76,
+      "similar_to": "ampliaciones/z10.png#0"
+    },
+    {
+      "seconds": 122.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 123.76,
+      "similar_to": "ampliaciones/z10.png#0"
+    },
+    {
+      "seconds": 124.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#1"
+    },
+    {
+      "seconds": 125.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#1"
+    },
+    {
+      "seconds": 127.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#2"
+    },
+    {
+      "seconds": 128.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#42"
+    },
+    {
+      "seconds": 130.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#3"
+    },
+    {
+      "seconds": 131.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#43"
+    },
+    {
+      "seconds": 133.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#4"
+    },
+    {
+      "seconds": 134.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#44"
+    },
+    {
+      "seconds": 135.76,
+      "similar_to": "ampliaciones/z16.png#0"
+    },
+    {
+      "seconds": 136.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#5"
+    },
+    {
+      "seconds": 137.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#45"
+    },
+    {
+      "seconds": 138.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#45"
+    },
+    {
+      "seconds": 139.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#6"
+    },
+    {
+      "seconds": 142.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#7"
+    },
+    {
+      "seconds": 143.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_01.jpg#47"
+    },
+    {
+      "seconds": 144.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#8"
+    },
+    {
+      "seconds": 145.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#8"
+    },
+    {
+      "seconds": 146.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#8"
+    },
+    {
+      "seconds": 147.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#9"
+    },
+    {
+      "seconds": 148.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#9"
+    },
+    {
+      "seconds": 149.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#10"
+    },
+    {
+      "seconds": 150.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#10"
+    },
+    {
+      "seconds": 151.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#10"
+    },
+    {
+      "seconds": 152.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_02.jpg#0"
+    },
+    {
+      "seconds": 153.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#11"
+    },
+    {
+      "seconds": 154.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#11"
+    },
+    {
+      "seconds": 155.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#11"
+    },
+    {
+      "seconds": 161.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_02.jpg#3"
+    },
+    {
+      "seconds": 162.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#14"
+    },
+    {
+      "seconds": 163.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#14"
+    },
+    {
+      "seconds": 164.76,
+      "similar_to": "ampliaciones/z06.png#0"
+    },
+    {
+      "seconds": 165.76,
+      "similar_to": "ampliaciones/z06.png#0"
+    },
+    {
+      "seconds": 166.76,
+      "similar_to": "ampliaciones/z06.png#0"
+    },
+    {
+      "seconds": 168.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#16"
+    },
+    {
+      "seconds": 169.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#14"
+    },
+    {
+      "seconds": 170.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#14"
+    },
+    {
+      "seconds": 171.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#17"
+    },
+    {
+      "seconds": 172.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#17"
+    },
+    {
+      "seconds": 173.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 174.76,
+      "similar_to": "cada-3-segundos/sheet_03.jpg#17"
+    },
+    {
+      "seconds": 175.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 176.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 177.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 178.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 179.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 180.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 181.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 182.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 183.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 184.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 185.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 186.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 187.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 188.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 189.76,
+      "similar_to": "ampliaciones/z08.png#0"
+    },
+    {
+      "seconds": 190.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#3"
+    },
+    {
+      "seconds": 191.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#3"
+    },
+    {
+      "seconds": 192.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#2"
+    },
+    {
+      "seconds": 193.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 194.76,
+      "similar_to": "ampliaciones/z03.png#0"
+    },
+    {
+      "seconds": 195.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#5"
+    },
+    {
+      "seconds": 196.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#5"
+    },
+    {
+      "seconds": 197.76,
+      "similar_to": "ampliaciones/z11.png#0"
+    },
+    {
+      "seconds": 198.76,
+      "similar_to": "ampliaciones/z11.png#0"
+    },
+    {
+      "seconds": 199.76,
+      "similar_to": "ampliaciones/z05.png#0"
+    },
+    {
+      "seconds": 200.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_02.jpg#16"
+    },
+    {
+      "seconds": 201.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#7"
+    },
+    {
+      "seconds": 202.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#7"
+    },
+    {
+      "seconds": 203.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_02.jpg#17"
+    },
+    {
+      "seconds": 204.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#8"
+    },
+    {
+      "seconds": 205.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#8"
+    },
+    {
+      "seconds": 206.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#7"
+    },
+    {
+      "seconds": 207.76,
+      "similar_to": "ampliaciones/z12.png#0"
+    },
+    {
+      "seconds": 208.76,
+      "similar_to": "ampliaciones/z12.png#0"
+    },
+    {
+      "seconds": 209.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#9"
+    },
+    {
+      "seconds": 210.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#10"
+    },
+    {
+      "seconds": 211.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#10"
+    },
+    {
+      "seconds": 212.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#10"
+    },
+    {
+      "seconds": 213.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#11"
+    },
+    {
+      "seconds": 214.76,
+      "similar_to": "ampliaciones/z13.png#0"
+    },
+    {
+      "seconds": 215.76,
+      "similar_to": "ampliaciones/z13.png#0"
+    },
+    {
+      "seconds": 216.76,
+      "similar_to": "ampliaciones/z13.png#0"
+    },
+    {
+      "seconds": 217.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#12"
+    },
+    {
+      "seconds": 218.76,
+      "similar_to": "cada-3-segundos-desfasado/offset_02.jpg#22"
+    },
+    {
+      "seconds": 219.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#13"
+    },
+    {
+      "seconds": 220.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#13"
+    },
+    {
+      "seconds": 221.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#13"
+    },
+    {
+      "seconds": 222.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#14"
+    },
+    {
+      "seconds": 223.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#14"
+    },
+    {
+      "seconds": 224.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#14"
+    },
+    {
+      "seconds": 225.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 226.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 227.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 228.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 229.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 230.76,
+      "similar_to": "ampliaciones/z14.png#0"
+    },
+    {
+      "seconds": 231.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#17"
+    },
+    {
+      "seconds": 232.76,
+      "similar_to": "cada-3-segundos/sheet_04.jpg#17"
+    },
+    {
+      "seconds": 233.76,
+      "similar_to": "cada-3-segundos/sheet_02.jpg#9"
+    },
+    {
+      "seconds": 3.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 4.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 5.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 6.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 7.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 9.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 10.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 12.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    },
+    {
+      "seconds": 57.76,
+      "reason": "Revisión visual: variación redundante del mismo plano."
+    }
+  ],
+  "visual_review": "Se eliminaron además 9 variaciones redundantes de carrera, columpio y huida. Se conservan cambios de gesto, movimiento o encuadre; varias imágenes pertenecen a escenas ya documentadas."
+}
