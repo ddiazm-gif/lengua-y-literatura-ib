@@ -2,6 +2,18 @@
 
 Fuente: columna «ENSAYO DE NIVEL SUPERIOR (ENS)» del Padlet del curso (Lengua A NS 2026-2027), leída el 25/10/2026. Complementa `reglas-ensayo-literario.md`; los materiales de análisis no literario y la teoría están resumidos en `padlet-materiales-no-literarios.md`.
 
+## Imagen y sonido: qué dicen los documentos
+
+Revisado el 25/10/2026 en todos los documentos del Padlet (`padlet-textos/`):
+
+- Ningún documento prohíbe analizar el sonido o la música en un texto no literario. Tampoco hay ninguno que enseñe a analizarlos.
+- Todas las herramientas no literarias del profesor son visuales: código visual, código cromático, código verbal escrito, isotopía visual, figuras retóricas de la imagen y cómic.
+- La ficha de tipología clasifica las **letras de canciones como texto literario** («IB - TLI»). Los **videos musicales** aparecen aparte, sin esa etiqueta. En un videoclip, la letra pertenece al lado literario y el objeto del ensayo no literario es la imagen.
+- El modelo de ENS no literario (*El joven manos de tijera*) habla de «elementos visuales y narrativos» y no menciona el sonido.
+- El alumno recuerda que en clase se dijo que el no literario se analiza solo con imágenes. Es lo más seguro y lo que mejor encaja con los materiales; falta confirmarlo con el profesor.
+
+En la práctica, todo símbolo o idea se sostiene en algo que se ve: plano, ángulo, encuadre, composición, color, luz, espacio, objetos, vestuario, gestos, movimiento de cámara o montaje. El anclaje y el relevo solo aplican si hay texto escrito en pantalla (o el título).
+
 ## Datos básicos
 
 - Extensión: entre 1200 y 1500 palabras. Vale el 20 % de la nota final; máximo 20 puntos.

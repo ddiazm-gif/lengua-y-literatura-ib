@@ -1,0 +1,221 @@
+TÍTULO EN EL PADLET: LA INTENCIÓN DEL AUTOR
+
+390525-5333985850646-533398
+LENGUA A
+
+LA INTENCIÓN DEL AUTOR
+
+QUÉ ENTENDEMOS POR «INTENCIÓN»
+En crítica textual, la intención se concibe como un horizonte de propósitos comunicativos que puede inferirse a partir del texto y de su contexto de producción.
+La intención pertenece al ámbito discursivo: se manifiesta en las decisiones lingüísticas, estructurales y estilísticas que el autor adopta para orientar la lectura y provocar determinados efectos en el receptor.
+
+NIVELES DE REALIZACIÓN DE LA INTENCIÓN COMUNICATIVA
+
+Nivel macro (Propósito): el telos o propósito del texto
+La palabra «Telos» (del griego τέλος) significa fin o propósito último.
+El nivel macro es el para qué…, qué… o por qué…
+En este nivel, la intención responde a la pregunta: ¿Para qué existe este texto dentro de su contexto cultural y comunicativo?
+Aquí, también se analiza el texto como una acción social: ¿qué función cumple en la sociedad o en la cultura que lo produce?
+Algunos ejemplos de propósitos macro son:
+Informar: una noticia, un boletín, un reporte técnico.
+Denunciar: un artículo de opinión o una crónica periodística crítica.
+Conmover: un poema o una novela de tono emocional.
+Persuadir o vender: un anuncio publicitario o un discurso político.
+Preservar memoria: una autobiografía, un testimonio, una obra documental.
+Prestigiar o legitimar: un texto institucional o académico.
+
+Nivel meso (Decisiones compositivas): la estrategia discursiva
+La palabra «meso» (proviene del griego μέσος), significa «medio», «intermedio» o «que está entre dos extremos».
+El nivel meso examina cómo las decisiones del autor, a través de las estrategias, posiblemente, intencionales que emplea, determinan la manera en que el texto se organiza para alcanzar su propósito comunicativo.
+En este nivel se ubica la organización del texto, la estructura textual, las estrategias discursivas o narrativas.
+Aquí encontramos las decisiones del autor que sostienen la intención general:
+El tipo de voz (narrador en primera persona, testigo, cronista).
+La estructura (anécdota inicial + reflexión + exhortación final).
+El orden de la información (ir de lo concreto a lo general, de lo cómico a lo moral).
+El uso del tiempo (presente narrativo, pasado reciente, proyección al futuro).
+La intertextualidad (la referencia a Ben-Hur en el artículo crea humor cultural).
+Los recursos tonales (ironía, sarcasmo, hipérbole, apelación moral).
+Nivel micro: las elecciones formales y expresivas
+En este nivel, la intención del autor se hace visible en los detalles concretos del lenguaje y la forma visual.
+Cada palabra, signo de puntuación o imagen representa una decisión significativa que contribuye al propósito global del texto.
+El nivel micro responde a la pregunta «¿con qué recursos el autor logra su efecto?».
+Los aspectos micro incluyen:
+Léxico: las palabras elegidas comunican tono y actitud. Por ejemplo, el uso de términos coloquiales como «puñetera» o «idiotas» transmite indignación y cercanía con el lector.
+Figuras retóricas: recursos como metáforas, comparaciones o ironías que intensifican la expresividad del mensaje.
+Puntuación: el ritmo y la fuerza del discurso se construyen con pausas, puntos seguidos o comas que marcan énfasis.
+Ritmo sintáctico: las frases cortas generan dinamismo o tensión; las más largas invitan a la reflexión.
+Elementos visuales o tipográficos (en textos multimodales): el tamaño, el color o la disposición de los elementos también expresan intención y orientan la lectura.
+
+CLAVES TEÓRICAS
+Falacia intencional. No podemos probar qué quiso decir un autor solo con entrevistas o declaraciones. La verdadera intención se deduce a partir del texto mismo: sus palabras, su estructura y los elementos que lo acompañan (título, tono, imágenes, etc.).
+Intención no es lo mismo que efecto. Lo que un texto quiere lograr (su intención) no siempre es igual a lo que provoca realmente en cada lector. Por ejemplo, un texto puede hacerte reír, pero quizá a ti te incomoda o te deja pensando.
+Autor real vs. autor implícito. No hace falta pensar en el autor real, de carne y hueso. Lo importante es el autor implícito, es decir, la imagen del autor que el texto nos deja ver. Esa «voz» o postura dentro del texto nos ayuda a entender su propósito.
+Lector previsto. Todo texto está pensado para un tipo de lector, al que busca atraer o convencer. Ese «lector modelo», como lo llama Umberto Eco, se puede reconocer por las pistas que el texto deja: el lenguaje que usa, los temas que aborda, el tono con que habla.
+Pragmática y actos de habla. No solo comunica información: también realiza acciones con el lenguaje. Cuando analizamos la intención del autor desde la pragmática, observamos tres niveles de acción en el discurso:
+Acto locutivo: es lo que el texto dice literalmente, las palabras y estructuras que forman el mensaje. Es el nivel del significado directo. Ejemplo: «Cuatro chavales circulaban en otros tantos patinetes eléctricos.» (describe una escena concreta).
+Acto ilocutivo: es lo que el autor hace al decirlo: advertir, criticar, ordenar, invitar, persuadir… Es el nivel de la intención comunicativa. Ejemplo: en la frase «Las autoridades deben poner coto ya a estos artefactos del demonio», el autor exhorta a las autoridades.
+Acto perlocutivo: es lo que el texto busca provocar en el lector: reflexión, risa, indignación, empatía. Es el nivel del efecto buscado en el lector. Ejemplo: el lector siente molestia, reflexión o acuerdo con el reclamo del autor.
+En conjunto, los actos de habla muestran cómo la intención del autor se construye y se manifiesta: el acto locutivo aporta el contenido, el ilocutivo la intención, y el perlocutivo el efecto.
+
+CÓMO SE INFIERE LA INTENCIÓN DEL TEXTO
+Para descubrir la intención de un texto, no basta con «adivinar» lo que el autor pensó. Hay que observar las pistas que el propio texto y su contexto ofrecen.
+A continuación, se presentan seis claves que ayudan a inferir esa intención de manera razonada:
+1. Situación retórica (según Lloyd Bitzer)
+Todo texto nace porque hay algo que lo motiva: un problema, una necesidad o una preocupación. Bitzer lo explica a través de tres elementos:
+Exigencia: el motivo que impulsa al autor a escribir. ¿Qué problema o situación lo llevó a crear el texto? Ejemplo: una noticia puede responder a la necesidad de informar sobre un accidente; un artículo de opinión, a la de denunciar un comportamiento social.
+Audiencia: el público al que el texto busca influir o afectar. ¿Quién puede entender, actuar o cambiar algo a partir de lo que lee?
+Restricciones: las condiciones o límites del contexto: el género (noticia, poema, anuncio), el medio (televisión, red social, periódico), la censura o el mercado.
+Pensar en la situación retórica nos permite responder: ¿Por qué y para quién existe este texto?
+ 	
+2. Género y contrato de lectura
+Cada tipo de texto (o género) viene con un acuerdo implícito entre el autor y el lector, una especie de «pacto de lectura».
+Ese contrato genera expectativas sobre cómo debe funcionar el texto.
+En una noticia, esperamos información real y verificable.
+En un anuncio publicitario, esperamos persuasión.
+En un poema, esperamos lenguaje figurado y emoción.
+Si un texto rompe ese contrato (por ejemplo, una noticia inventada o un poema que parece un reportaje), esa ruptura también comunica una intención: provocar, ironizar o criticar.
+
+3. Focalización y voz
+Aquí se analiza quién habla en el texto, desde dónde lo hace y qué tan confiable es.
+¿El narrador es testigo, protagonista o una voz externa?
+¿Habla con autoridad o con dudas?
+¿Manipula la información o parece objetivo?
+Un narrador poco confiable, por ejemplo, puede usarse para poner en duda lo que creemos cierto. 	La voz narrativa o discursiva es una pista clave para descubrir la postura del autor implícito.
+4. Recursos dominantes
+Todo texto tiene un recurso o estrategia que domina el conjunto. Puede ser una metáfora extendida, una serie de datos estadísticos, un contraste fuerte, o el uso repetido de testimonios.
+Para identificarlo, pregúntate: ¿Este recurso busca informar, emocionar, indignar, convencer, vender o recordar?
+Ejemplo:En un artículo de opinión, el sarcasmo o la ironía pueden ser el recurso dominante, usados para criticar o denunciar.
+En un anuncio, el color y la imagen dominan para persuadir visualmente.
+
+5. Paratexto (según Gérard Genette)
+El paratexto son todos los elementos que acompañan el texto principal: títulos, subtítulos, epígrafes, notas, imágenes, logos, tipografías, fechas o ubicación.
+Estos detalles no son decorativos: dan pistas claras sobre el propósito del texto y la postura del autor. Por ejemplo:
+Un título con tono alarmante anticipa una intención de advertir o alertar.
+Un logotipo de una marca muestra que hay un propósito comercial o persuasivo.
+
+6. Intertextualidad
+Ningún texto existe aislado: siempre dialoga con otros.
+Cada autor escribe desde una tradición, una memoria cultural o una conversación que ya estaba en marcha. A esa red de relaciones entre textos la llamamos intertextualidad.  La intertextualidad se da cuando un texto responde, imita, contradice o transforma otro discurso anterior.
+Esto puede ocurrir de muchas formas: citando, parodiando, adaptando, homenajeando o reescribiendo.
+
+Hipotexto, hipertexto e hipertextualidad
+La teoría literaria (especialmente Gérard Genette) explica que en toda relación intertextual hay dos textos principales:
+El hipotexto, que es el texto original o de referencia.
+El hipertexto, que es el texto nuevo, el que nace a partir del anterior.
+La hipertextualidad es, entonces, el vínculo que une ambos textos, y puede manifestarse de diferentes modos:
+Integración: el nuevo texto incorpora fragmentos o ideas del anterior.
+Transformación: el texto modifica o reinterpreta el original, dándole un nuevo sentido.
+Parodia: el texto imita o exagera el anterior con tono humorístico o crítico.
+ Ejemplo:
+Un artículo que cita a otro periodista puede estar corrigiendo o discutiendo sus ideas (transformación).
+Un poema que usa versos de otro autor puede rendir homenaje o reescribir su mensaje (integración).
+Un meme que toma una escena de una película y la cambia para hacer una crítica social es una parodia hipertextual: el meme (hipertexto) transforma la película (hipotexto) con una nueva intención.
+
+Por qué es importante reconocer la intertextualidad
+Identificar estas relaciones permite comprender:
+La postura del texto frente a otros discursos (si los critica, celebra o reinterpreta).
+El tono y el propósito (si busca humor, homenaje, denuncia o provocación).
+El diálogo cultural en el que el texto se inserta (qué temas o ideas continúa o desafía).
+En resumen, la intertextualidad convierte a cada texto en parte de una gran conversación cultural: el autor habla, pero lo hace con las palabras, imágenes y ecos de muchos otros.
+
+INDICADORES POR TIPO DE TEXTO (MUESTRA RÁPIDA)
+1. Noticia o crónica
+La noticia busca informar con aparente neutralidad; la crónica, aunque también informa, incorpora un punto de vista narrativo y estilístico. Ambas comparten una estructura piramidal invertida: lo más relevante primero (qué, quién, cuándo, dónde, cómo y por qué) y luego los detalles secundarios. Esta estructura no es inocente: jerarquiza la realidad, mostrando qué merece ser conocido y qué no.
+Indicadores lingüísticos y discursivos:
+Verbos declarativos o impersonales («se informó», «fue hallado», «se registró»), que refuerzan la idea de objetividad.
+Modalizadores epistémicos como presuntamente, al parecer, según fuentes cercanas, que actúan como marcas de prudencia informativa o de distanciamiento legal.
+Datos verificables y cifras, que crean el efecto de verdad empírica.
+Fuentes citadas o anónimas, que construyen la autoridad del discurso («según el portavoz del ministerio…»).
+Sin embargo, esa aparente neutralidad puede ocultar sesgos de agenda: lo que se elige narrar (selección) y cómo se presenta (jerarquización) responden a la intención del medio. Así, un titular como «Manifestantes interrumpen el tráfico» no dice lo mismo que «Ciudadanos protestan contra el alza del combustible». La intención informativa puede deslizarse hacia la persuasión ideológica mediante el encuadre noticioso (framing).
+Resumen de noticia o crónica: orden piramidal, fuentes citadas, modulación del modalizador («presuntamente», «según»), datos verificables → intención informativa con posibles sesgos de agenda (selección/jerarquización).
+2. Anuncio publicitario
+El anuncio es el espacio donde el lenguaje se vuelve instrumento de seducción. Su intención es siempre persuasiva, pero no solo racional: apela al deseo, la identificación y la emoción. Todo en él está diseñado —imagen, color, tipografía, música, eslogan— para guiar la percepción y modelar comportamientos.
+Indicadores lingüísticos y retóricos:
+Imperativos y apelaciones directas: «Descúbrelo», «No te lo pierdas», «Hazlo posible». Son actos de habla directivos, que buscan inducir una acción concreta: comprar, consumir, creer.
+Beneficio explícito o implícito: el producto se asocia a una promesa simbólica («libertad», «juventud», «éxito»), no a su mera utilidad.
+Ethos de marca: la empresa construye una identidad moral o estética («Pepsi: juventud», «Apple: creatividad», «Volvo: seguridad»). Este ethos genera confianza y deseo de pertenencia.
+Diseño visual y multimodalidad: disposición de los elementos gráficos, contraste, ritmo, composición. Lo visual no acompaña al texto: es el texto.
+Lenguaje afectivo y figurado: metáforas, hipérboles, personificaciones, connotaciones sensoriales.
+En suma, la intención persuasiva se manifiesta en la sinergia entre lo racional y lo emotivo. El anunciante busca no solo vender un objeto, sino naturalizar una forma de ver el mundo, un estilo de vida o un valor.
+Resumen de anuncio publicitario: imperativos, beneficio explícito, diseño persuasivo, ethos de marca, apelaciones emocionales → intención persuasiva.
+3. Poema o relato breve: la búsqueda de sentido más allá de lo literal
+En el poema y el relato breve, la intención se desplaza del «decir algo» al «hacer sentir o pensar algo de manera única». La finalidad es estético-expresiva: explorar el lenguaje como experiencia, más que como instrumento de comunicación utilitaria.
+Indicadores literarios y semánticos:
+Desviación del uso literal: el lenguaje poético rompe la norma para crear nuevas relaciones de sentido. La metáfora no adorna: revela.
+Simbolización: los objetos se cargan de valores abstractos; una «lluvia» puede ser melancolía, renacimiento o culpa.
+Ambigüedad controlada: el texto sugiere más de lo que dice. No busca claridad total, sino espacios de interpretación.
+Voz singular: el «yo lírico» o la focalización narrativa otorgan una mirada subjetiva e irrepetible.
+Ritmo, sonoridad y estructura: en el poema, la forma participa del sentido; en el relato breve, la elipsis y el cierre sorpresivo potencian el impacto.
+La intención no siempre es solo estética: muchos textos poéticos o narrativos encarnan una crítica social o existencial. La belleza se convierte en vehículo de pensamiento. En estos casos, el autor no pretende convencer con argumentos, sino perturbar o transformar la sensibilidad del lector.
+Resumen de poema o relato breve: desviaciones del uso literal, simbolización, ambigüedad controlada, voz singular → intención estético-expresiva (a veces también crítica).
+4. Ensayo de opinión: el arte de pensar en público
+El ensayo de opinión es el territorio del logos (razón) sin renunciar al ethos (autoridad) ni al pathos (emoción moderada). Su intención es argumentativa y reflexiva: busca que el lector adopte, cuestione o matice una postura ante un tema.
+Indicadores discursivos y retóricos:
+Tesis explícita: el autor formula su postura con claridad («Es necesario repensar el uso de la tecnología en la educación»).
+Cadena argumentativa: se articula una secuencia lógica de premisas, ejemplos, analogías y deducciones.
+Contraargumentos: anticipa objeciones y las refuta, lo que fortalece la credibilidad.
+Apelación a la autoridad: cita de expertos, datos o experiencias que legitiman la voz del ensayista.
+Lenguaje valorativo y conceptual: adjetivos que posicionan («inaceptable», «urgente»), conectores lógicos («por tanto», «sin embargo»), y una sintaxis que favorece la precisión.
+El ensayo no impone; razona. Su intención no es solo convencer, sino invitar al diálogo racional. En su mejor forma, logra lo que Montaigne proponía: «ensayar» el pensamiento, ofrecerlo como propuesta abierta más que como verdad cerrada.
+Resumen de Ensayo de opinión: tesis explícita, cadenas argumentativas, contraargumentos, ejemplos y autoridad → intención argumentativa.
+
+EJEMPLO DE ANÁLISIS
+1619256826796
+
+1. Contexto comunicativo y propósito global
+El texto fue publicado en Europa Sur (10 de diciembre de 2022), un medio español de carácter regional, en plena expansión del uso de patinetes eléctricos como medio de transporte urbano. Este contexto —una sociedad que adopta nuevas formas de movilidad sin suficiente regulación— sitúa el artículo en el marco del debate social sobre la seguridad vial y la convivencia ciudadana.
+El propósito global del autor es advertir y criticar la falta de responsabilidad de ciertos usuarios de patinetes eléctricos y la inacción de las autoridades. Rodríguez pretende generar una conciencia ciudadana y moral apelando al sentido común, a la autoridad de la experiencia y a la ironía como vehículo de denuncia.
+2. Estrategia discursiva (estructura y voz)
+El artículo sigue la estructura clásica de la crónica-opinión:
+Anecdótica inicial (líneas 1–14): un relato vívido y humorístico del encuentro del narrador con jóvenes que usan patinetes de forma temeraria.
+
+Generalización crítica (líneas 15–23): extrapola el caso individual al fenómeno social de la «plaga».
+
+Llamado a la acción (líneas 24–27): reclama la intervención de las autoridades.
+
+Cierre reflexivo (líneas 28–31): recurre a una comparación histórica («sin casco», «sin cinturón») para reforzar la urgencia del cambio de actitud.
+La voz narrativa es personal, cercana y moralizadora, pero no solemne. El narrador adopta el papel del ciudadano sensato que observa con indignación y sarcasmo la degradación del civismo urbano.
+3. Tono e intención
+El tono mezcla ironía, humor y denuncia.  Rodríguez ridiculiza el comportamiento de los jóvenes («versión cani de las cuádrigas de Ben-Hur») para 
+evidenciar su falta de sentido común y, por extensión, la permisividad social.
+La ironía cumple una función estratégica: hace la crítica más accesible y eficaz, apelando a la risa del lector para generar reflexión.
+Sin embargo, el tono se endurece en el cierre, cuando introduce un registro más serio y moralizante («muchas habitaciones de hospital y salas de tanatorio»). Este contraste tonal refuerza la intención persuasiva y exhortativa.
+El efecto en el lector es doble:
+Por un lado, cómico y catártico, al caricaturizar una escena reconocible de la vida urbana.
+Por otro, inquietante, al recordar las consecuencias trágicas que puede tener la irresponsabilidad vial.
+4. Recursos dominantes y construcción de sentido
+Lenguaje coloquial y expresivo: («puñetera luz», «idiotas que circulan», «artefactos del demonio») crea cercanía y desahogo emocional.
+Hipérbole e ironía: amplifican el absurdo para provocar crítica social («legión», «jungla de la ciudad»).
+Referencias culturales: (Ben-Hur, Betadine) aportan humor intertextual y conectan con la experiencia del lector adulto.
+
+Apelaciones directas: («¿Imaginan hoy en día…?») involucran al lector, transformándolo en cómplice de la denuncia.
+
+Cierre argumentativo: establece una analogía con el proceso de concienciación sobre el casco y el cinturón de seguridad, elevando el texto de la anécdota a la dimensión cívica y moral.
+5. Inferencia de la intención del autor
+La intención del autor es persuadir mediante la crítica irónica a los ciudadanos y autoridades para que regulen y asuman responsabilidades frente al uso peligroso de los patinetes eléctricos. Su estrategia consiste en combinar el humor costumbrista con la advertencia moral, generando un tono de indignación compartida. El texto no busca solo denunciar, sino mover a la acción (tanto individual como institucional).
+En términos pragmáticos:
+Acto ilocutivo: reproche y exhortación.
+Acto perlocutivo: provocar conciencia, vergüenza cívica y deseo de regulación.
+6. Modelo de párrafo analítico
+En el artículo de opinión «La plaga de los patinetes», Alberto Rodríguez adopta un tono irónico y moralizante para advertir sobre el uso irresponsable de los patinetes eléctricos en las ciudades. A través de una anécdota cargada de humor y lenguaje coloquial, el autor construye una crítica social que ridiculiza la temeridad juvenil y la pasividad institucional. Su intención no es solo relatar un hecho curioso, sino persuadir al lector de la necesidad de imponer orden y sanciones, apelando al sentido común y a la memoria colectiva de otras campañas de seguridad vial. De este modo, la ironía inicial se transforma en una denuncia seria que busca concienciar y movilizar, revelando una intención autoral claramente cívica y exhortativa.
+7. Modelo de respuesta – Estilo IB (criterio A: comprensión e interpretación)
+En el artículo de opinión «La plaga de los patinetes», Alberto Rodríguez adopta un tono irónico y moralizador para denunciar la imprudencia de ciertos usuarios de patinetes eléctricos y criticar la pasividad de las autoridades. Desde la primera anécdota, el autor combina la sátira costumbrista con un registro coloquial y expresivo —«ni una puñetera luz», «artefactos del demonio»— que le permite conectar con el lector y convertir su indignación personal en una crítica compartida.
+La ironía cumple una función esencial: transforma la queja en una forma de humor que ridiculiza la falta de civismo. Al comparar a los jóvenes con una «versión cani de las cuádrigas de Ben-Hur», el autor exagera el absurdo de la escena para generar un efecto de risa reflexiva: el lector se divierte y, al mismo tiempo, percibe la gravedad del problema.
+Sin embargo, el tono evoluciona progresivamente hacia la seriedad y el reproche ético. En el cierre, el autor abandona la burla y recurre a una apelación moral directa —«ha costado mucho esfuerzo [...] concienciar a la sociedad»— que intensifica el tono admonitorio y apelativo. Este cambio produce un efecto de alerta cívica: el lector pasa de la risa al reconocimiento de un deber colectivo.
+En conjunto, el tono del texto funciona como una herramienta persuasiva: el humor inicial desarma la resistencia del lector, mientras la gravedad final consolida el mensaje ético. Así, Rodríguez logra que su crítica trascienda la anécdota y se convierta en una llamada a la responsabilidad social y a la acción reguladora, revelando una intención autoral clara: concienciar y corregir mediante la ironía.
+
+REFERENCIAS
+
+Aristóteles. (1990). Retórica (A. Tovar, Trad.). Gredos.
+Austin, J. L. (1962). How to Do Things with Words. Oxford University Press.
+Bajtín, M. (1982). Estética de la creación verbal (T. Bubnova, Trad.). Siglo XXI Editores.
+Barthes, R. (1981). Leçon inaugurale au Collège de France. Seuil.
+Bitzer, L. F. (1968). The Rhetorical Situation. Philosophy & Rhetoric, 1(1), 1–14.
+ChatGPT (versión GPT-5). (2025, noviembre). Análisis y sistematización de la intención del autor y el tono en diversos géneros discursivos. OpenAI.
+Eco, U. (1979). Lector in fabula: La cooperación interpretativa en el texto narrativo. Lumen.
+Genette, G. (1987). Seuils. Éditions du Seuil.
+Leech, G., & Short, M. (2007). Style in Fiction: A Linguistic Introduction to English Fictional Prose (2nd ed.). Pearson Education.
+Perelman, C., & Olbrechts-Tyteca, L. (1989). Tratado de la argumentación: La nueva retórica. Gredos.
+Searle, J. R. (1979). Expression and Meaning: Studies in the Theory of Speech Acts. Cambridge University Press.
+Van Dijk, T. A. (1980). Macrostructures: An Interdisciplinary Study of Global Structures in Discourse, Interaction, and Cognition. Lawrence Erlbaum.
+Wimsatt, W. K., & Beardsley, M. C. (1946). The Intentional Fallacy. The Sewanee Review, 54(3), 468–488.*

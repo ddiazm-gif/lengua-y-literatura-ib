@@ -1,0 +1,71 @@
+TÍTULO EN EL PADLET: TIPOS DE PÁRRAFO SEGÚN LA UBICACIÓN DE LA IDEA PRINCIPAL
+
+LENGUA Y LITERATURA NS
+
+Estudiante: .........................................................................        Fecha: ......./....../…..       …. .° Grado ….
+ | 
+Competencia 8: Lee diversos tipos de textos escritos en su lengua materna.
+Objetivo 1: Conocimiento, comprensión e interpretación
+ | Competencia 9: Escribe diversos tipos de textos en lengua materna.
+Objetivo 2: Analizar y evaluar
+ | Competencia 7: Se comunica oralmente en su lengua materna.
+Objetivo 3: Comunicar
+ | 
+TIPOS DE PÁRRAFO SEGÚN LA UBICACIÓN DE LA IDEA PRINCIPAL
+La idea principal es la proposición que resume el contenido esencial del párrafo y orienta su desarrollo. Según el lugar donde aparece dicha idea, los párrafos se clasifican en analizantes, sintetizantes, encuadrados y paralelos. Esta clasificación permite reconocer la estructura del texto y la intención del autor al organizar la información.
+     1. Párrafo analizante (o deductivo)
+Ubicación de la idea principal: al inicioEstructura: idea general → ideas que la explican o desarrollanRasgo distintivo: Parte de una afirmación global que luego se justifica, comenta o ejemplifica.
+
+Ejemplo: La lectura crítica es una herramienta esencial para la autonomía intelectual. A través de ella, el lector cuestiona los discursos, evalúa la información y construye su propio criterio frente al mundo.
+
+ 2. Párrafo sintetizante (o inductivo)
+• Ubicación de la idea principal: al final• Estructura: datos, ejemplos o argumentos → síntesis o conclusión general 
+• Rasgo distintivo: El lector debe inferir la idea central a partir de las evidencias o reflexiones previas.
+
+• Ejemplo: Muchos jóvenes participan hoy en movimientos sociales, otros impulsan proyectos ambientales o promueven campañas solidarias. En conjunto, estas acciones revelan una creciente conciencia social en las nuevas generaciones.
+
+ 3. Párrafo encuadrado (o mixto)
+• Ubicación de la idea principal: al inicio y al final• Estructura: idea general → desarrollo → reafirmación de la idea principal• Rasgo distintivo: El cierre retoma o refuerza la idea inicial, aportando una sensación de unidad y coherencia.
+• Ejemplo: La tecnología puede ser una aliada del aprendizaje si se usa con criterio. Permite el acceso rápido a información, fomenta la creatividad y facilita la colaboración entre estudiantes. En efecto, la tecnología bien empleada potencia las experiencias educativas.
+ 4. Párrafo paralelo (o encadenado)
+• Ubicación de la idea principal: implícita o distribuida a lo largo del texto• Estructura: varias oraciones del mismo valor aportan distintos aspectos de un mismo tema• Rasgo distintivo: La idea principal no está explícita, sino que se deduce del conjunto de proposiciones.
+• Ejemplo: La ciudad nunca duerme: los autos circulan sin pausa, los anuncios iluminan las calles y las voces resuenan hasta el amanecer. Su ritmo constante es una metáfora de la vida moderna.
+Resumen general
+Tipo de párrafo
+ | Ubicación de la idea principal
+ | También llamado
+ | Estructura lógica
+ | Finalidad
+ | Analizante
+ | Inicio
+ | Deductivo
+ | General → Particular
+ | Exponer o explicar una idea central
+ | Sintetizante
+ | Final
+ | Inductivo
+ | Particular → General
+ | Concluir o resumir ideas previas
+ | Encuadrado
+ | Inicio y final
+ | Mixto
+ | General → Particular → General
+ | Reforzar o cerrar una tesis inicial
+ | Paralelo
+ | Implícita / dispersa
+ | —
+ | Coordinación de ideas
+ | Mostrar varios aspectos de un mismo tema
+ |   
+
+REFERENCIAS
+
+Cassany, D. (2021). La cocina de la escritura. Barcelona: Anagrama.
+Cortés, M. (2020). Redacción eficaz: estrategias para escribir con claridad y coherencia. Madrid: Ediciones SM.
+García Negroni, M. M., & Tordesillas Colado, E. (2022). Gramática y escritura académica. Buenos Aires: Eudeba.
+Lomas, C. (2020). Cómo enseñar a escribir: teoría y práctica de la composición escrita. Barcelona: Paidós Educación.
+OpenAI. (2025). ChatGPT (versión GPT-5) [modelo de lenguaje]. Recuperado de https://chat.openai.com
+Real Academia Española (RAE) & Asociación de Academias de la Lengua Española (ASALE). (2023). Nueva gramática de la lengua española. Manual. Madrid: Espasa.
+Solé, I. (2021). Estrategias de comprensión lectora. Barcelona: Graó.
+Van Dijk, T. A. (2020). Discurso y contexto: un enfoque sociocognitivo. Barcelona: Gedisa.
+Zamudio, C. (2024). Didáctica de la producción escrita: enfoques y estrategias. Lima: Fondo Editorial PUCP.

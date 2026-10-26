@@ -1,0 +1,51 @@
+TÍTULO EN EL PADLET: LA SEMÁNTICA, LOS SEMAS Y LOS CAMPOS SEMÁNTICOS
+
+LENGUA Y LITERATURA NS
+
+Estudiante: .........................................................................        Fecha: ......./....../…..       …. .° Grado ….
+ | 
+Competencia 8: Lee diversos tipos de textos escritos en su lengua materna.
+Objetivo 1: Conocimiento, comprensión e interpretación
+ | Competencia 9: Escribe diversos tipos de textos en lengua materna.
+Objetivo 2: Analizar y evaluar
+ | Competencia 7: Se comunica oralmente en su lengua materna.
+Objetivo 3: Comunicar
+ | 
+LA SEMÁNTICA, LOS SEMAS Y LOS CAMPOS SEMÁNTICOS
+1. ¿Qué es la semántica?
+La semántica es la rama de la lingüística que estudia el significado de las palabras, expresiones y oraciones dentro de una lengua. Su objetivo es comprender cómo las unidades lingüísticas expresan conceptos, cómo se relacionan entre sí y cómo se interpretan en diferentes contextos comunicativos.
+Dentro de la semántica, se distingue la semántica léxica, que se enfoca en el significado de las palabras individuales y sus relaciones, como la sinonimia, antonimia, polisemia y campos semánticos.
+Ejemplo:Las palabras, niño, joven y adulto, tienen significados relacionados entre sí, pero difieren según el rasgo de edad. Analizar esas diferencias es parte del estudio semántico.
+
+2. ¿Qué es un sema?
+El sema es la unidad mínima de significado que compone a una palabra. Cada palabra o lexema puede descomponerse en varios semas que explican los distintos rasgos de sentido que posee. Ejemplo: La palabra “niña” puede descomponerse en los siguientes semas:[+humano][+femenino][+joven]
+2. ¿Qué es un sema emparentador?
+El sema emparentador (también llamado sema común) es aquel rasgo de significado que comparten varias palabras dentro de un mismo grupo. Este sema permite relacionar palabras entre sí dentro de un campo semántico. Ejemplo: En el grupo: gato, perro, caballo, ratón - El sema emparentador es [+animal].
+3. ¿Qué es un sema diferenciador?
+El sema diferenciador es el rasgo que distingue una palabra de otra dentro del mismo campo semántico. Permite que cada palabra tenga un significado particular, aunque comparta otros rasgos con las demás. Ejemplo: En el grupo: gato, perro, caballo, ratón - Todos comparten el sema [+animal] (emparentador). - Pero se diferencian por:   - gato: [+félido]   - perro: [+cánido]   - caballo: [+equino]   - ratón: [+roedor]
+4. ¿Qué es un campo semántico?
+Un campo semántico es un conjunto de palabras que comparten al menos un sema emparentador y que se diferencian entre sí por sus semas diferenciadores. Estas palabras pertenecen a la misma categoría conceptual. Ejemplo 1: Campo semántico de los muebles: silla, mesa, cama, sofá, armario - Sema emparentador: [+objeto doméstico] - Semas diferenciadores: [+sentarse], [+comer], [+dormir], [+descansar], [+guardar]. Ejemplo 2: Campo semántico de los colores: rojo, azul, verde, amarillo, negro - Sema emparentador: [+color] - Semas diferenciadores: [+calor], [+frío], [+natural], [+luminoso], [+ausencia de luz].
+5. Ejemplo integrador
+Palabra
+ | Sema emparentador
+ | Sema diferenciador
+ | Padre
+ | [+humano]
+ | [+masculino], [+progenitor]
+ | Madre
+ | [+humano]
+ | [+femenino], [+progenitor]
+ | Hijo
+ | [+humano]
+ | [+descendiente], [+masculino]
+ | Hija
+ | [+humano]
+ | [+descendiente], [+femenino]
+ |  Campo semántico: la familia - Sema emparentador: [+humano] - Semas diferenciadores: [+masculino/femenino], [+progenitor/descendiente].
+
+REFERENCIAS
+
+Bosque, I., & Demonte, V. (Eds.). (1999). Gramática descriptiva de la lengua española. Madrid: Espasa Calpe.
+Casado Velarde, M. (2003). Semántica léxica y campos semánticos. Madrid: Arco/Libros.
+Real Academia Española & Asociación de Academias de la Lengua Española. (2010). Nueva gramática de la lengua española. Madrid: Espasa.
+ChatGPT. (2025, octubre 22). Semántica, sema emparentador, sema diferenciador y campos semánticos [Material educativo]. OpenAI. https://chat.openai.com/

@@ -18,5 +18,6 @@ Este proyecto usa la cuenta de GitHub **ddiazm-gif**. En el resto de la PC la cu
 
 - Antes de corregir o revisar un ensayo, lee `notas/reglas-ensayo-literario.md` (reglas del profesor y checklist) y `notas/errores-y-aprendizajes.md`.
 - La evaluación con criterios IB del ensayo de Maus está en `notas/evaluacion-ib-maus.md`.
-- Para el ensayo no literario, lee también `notas/padlet-ens-no-literario.md` (rúbrica, estructura y formato que pide el profesor) y `notas/padlet-materiales-no-literarios.md` (herramientas de análisis no literario y enfoques teóricos, resumidos del Padlet del curso). El texto completo de cada documento está en `padlet-textos/` (fuera de git): consúltalo cuando el resumen no alcance.
+- Para el ensayo no literario, lee también `notas/padlet-ens-no-literario.md` (rúbrica, estructura y formato que pide el profesor) y `notas/padlet-materiales-no-literarios.md` (herramientas de análisis no literario y enfoques teóricos, resumidos del Padlet del curso). El texto completo de cada documento está en `padlet-textos/`: consúltalo cuando el resumen no alcance.
+- El ensayo no literario es sobre el videoclip «Niño» de Milo J. El análisis visual (historia minuto a minuto, línea de indagación, tesis, teoría y evidencias) está en `notas/analisis-video-nino.md`, y los fotogramas en `video-nino/`. Úsalos en vez de volver a revisar el video.
 - No se reescriben textos para bajar el porcentaje de un detector de IA. El criterio está en `notas/detectores-de-ia.md`.

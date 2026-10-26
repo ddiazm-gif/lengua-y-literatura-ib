@@ -5,5 +5,6 @@
 desktop.ini
 Thumbs.db
 .DS_Store
-# Textos completos del Padlet del curso (materiales del profesor, solo local)
-padlet-textos/
+
+# Estado local de herramientas de Claude
+.claude/
