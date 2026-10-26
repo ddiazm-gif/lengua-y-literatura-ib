@@ -6,6 +6,8 @@ Material de apoyo para el ensayo no literario. El análisis está en [`notas/ana
 - **`fotogramas/cada-3-segundos/`:** cinco hojas de contacto con un fotograma cada 3 segundos. El número amarillo es el segundo del video.
 - **`fotogramas/ampliaciones/`:** las escenas clave en mayor tamaño (velorios, escenas simbólicas, bar, muerte del hermano, final). `faces.jpg` compara al hombre de gorra de los dos velorios.
 - **`fotogramas/verificacion/`:** 30 fotogramas tomados entre los anteriores para comprobar el análisis.
+- **`fotogramas/cada-3-segundos-desfasado/`:** dos hojas con un fotograma cada 3 segundos, desplazadas 1,5 s respecto de las primeras. Juntas cubren el video cada 1,5 s.
+- **Evidencias clave en `ampliaciones/`:** `pistola-1-23.png` (la pistola en la cintura del hermano en pleno abrazo luminoso), `altar-1-20.png` (el altar doméstico justo antes) y `secuencia-pistola-1-20-a-1-25.jpg` (la secuencia completa: altar → abrazo → pistola → abrazo).
 
 Los segundos tienen un margen de ±2 s (hasta ±4 s en las escenas simbólicas).
 

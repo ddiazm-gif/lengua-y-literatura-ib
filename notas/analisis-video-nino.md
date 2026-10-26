@@ -21,7 +21,8 @@ Videoclip oficial (4:30), dirigido por Nacho A. Villar (BRBR), filmado en Suncho
 | 0:57–1:00 | El niño cuelga de un columpio sin asiento, agarrado a las cadenas, en contrapicado contra el cielo. |
 | 1:03–1:15 | Noche azul. El hermano, en bividí, prende un cigarro en un cuarto oscuro. En la cocina (techo de caña, cuadro del Sagrado Corazón de Jesús) abraza por detrás a la madre, que lleva rosario. |
 | 1:18 | El niño se mira en un espejo ovalado de su cuarto, entre afiches, ropa colgada y una radio. |
-| 1:21–1:24 y 1:33 | Recuerdo luminoso: los hermanos abrazados a pleno sol, en contrapicado y con destellos de luz. |
+| 1:21–1:24 y 1:33 | Recuerdo luminoso: los hermanos abrazados a pleno sol, en contrapicado y con destellos de luz. En medio entra un plano detalle (1:23–1:24): una pistola metida en la cintura del pantalón del hermano, que lleva la misma camisa rosada del abrazo. |
+| 1:20–1:21 | Justo antes del abrazo, un plano vacío del altar doméstico: cuadros de Jesús y de santos, estampas y velas sobre un mueble. |
 | 1:27–1:42 | Noche. El hermano se acuesta junto al niño y lo abraza en la cama. |
 | 1:45–2:00 | Escena simbólica: el niño, sin polo, con una venda roja en los ojos, iluminado desde arriba en un vacío negro y rodeado de siluetas. |
 | 1:51–1:54 | Un joven corre solo de noche por un camino. |
@@ -63,6 +64,7 @@ Videoclip oficial (4:30), dirigido por Nacho A. Villar (BRBR), filmado en Suncho
 | 2:03–2:06 | Caminan abrazados y el hermano le habla: transmisión de un saber. | Plano medio de dos; gesto de guía. |
 | 2:09–2:39 | La tómbola y la máquina de peluches: el hermano entra al local y el niño se queda mirando desde afuera. Después alguien huye de una tienda: el robo se sugiere, no se muestra. Los juguetes encerrados en la máquina remiten a la infancia atrapada; la tómbola, al azar del destino. | Elipsis visual (el robo se omite y el espectador lo reconstruye); metáfora visual; antítesis visual (juguetes frente a delito); anclaje del cartel «TÓMBOLA». |
 | 2:49 | El hermano levanta un arma en el bar antes de morir: no es solo víctima, participa de la violencia que hereda. | Gesto; plano medio contrapicado. |
+| 1:23–1:24 | **Evidencia clave.** En pleno recuerdo luminoso del abrazo (1:22–1:23 y 1:25), un plano detalle muestra la pistola en la cintura del hermano, con la misma camisa rosada. La violencia ya estaba dentro del afecto. Fotograma: `video-nino/fotogramas/ampliaciones/pistola-1-23.png`. | Plano detalle; antítesis visual (ternura frente a arma); montaje que intercala el detalle entre los abrazos. |
 | 1:45–2:00 → 3:09–3:15 → 3:18 | La venda roja que tapa los ojos del niño pasa a ser pañuelo al cuello. El niño apunta con un arma y el hermano, con el mismo vestuario y la misma pose, aparece herido. El niño es el reflejo del hermano. | Isotopía visual del rojo (ceguera → violencia → sangre); analogía o símil visual; iluminación cenital en un vacío negro. |
 | 2:54–3:06 | El hermano muere en el suelo, visto desde arriba. | Plano cenital (picado absoluto): vulnerabilidad, destino visto «desde arriba». |
 | 2:42–2:51 | El hermano muere frente al «Bar Los Amigos». | Ironía visual con anclaje del cartel escrito. |
@@ -74,6 +76,7 @@ Videoclip oficial (4:30), dirigido por Nacho A. Villar (BRBR), filmado en Suncho
 | 0:18–0:21 | Crucifijo en la pared mientras muere el padre. | Isotopía religiosa; símbolo. |
 | 0:33–0:54 | Cruces y flores en el cementerio. | Isotopía religiosa; plano general. |
 | 1:09 | Cuadro del Sagrado Corazón y rosario al cuello de la madre, en una cocina humilde. | Isotopía religiosa; contraste entre fe y pobreza material. |
+| 1:20–1:21 | Altar doméstico vacío (cuadros de Jesús y santos, estampas) justo antes del abrazo con la pistola. La fe está en la casa, pero la escena siguiente muestra el arma. Fotograma: `video-nino/fotogramas/ampliaciones/altar-1-20.png`. | Plano vacío; isotopía religiosa; montaje por contraste (altar → pistola). |
 | 2:15 | El hermano roba con la Virgen de Guadalupe estampada en el pecho. | Oxímoron o ironía visual: la fe y el delito en el mismo cuerpo. |
 | 3:27–3:51 | El niño sostiene el rosario sobre el ataúd. | Símbolo; picado (vulnerabilidad); primer plano de las manos. |
 | 3:45–3:51 | Mirada final a la cámara, con tristeza y el rosario en las manos. | Mirada directa que interpela al espectador; final abierto: ¿repetirá el ciclo o lo romperá? |
@@ -85,6 +88,20 @@ Videoclip oficial (4:30), dirigido por Nacho A. Villar (BRBR), filmado en Suncho
 
 - **Tesis más fatalista:** «… se representa de manera cíclica e ineludible». Sirve si el profesor considera que el video no muestra redención. Lo religioso pasaría a mostrar que la fe no basta.
 - **Línea centrada en la fe:** ¿De qué manera el videoclip «Niño» de Milo J permite una representación de la fe como refugio frente a la violencia? Tesis: «… de manera persistente e impotente». Enfoque marxista, con la religión como consuelo del oprimido.
+
+## Descripciones de internet que no coinciden con el video
+
+El 25/10/2026 el alumno trajo descripciones del video generadas por un buscador con IA, con citas a letras.com, Instagram, TikTok e IMDb. Revisé el video completo con un fotograma cada 1,5 segundos y **estas afirmaciones son falsas**. No deben usarse en el ensayo:
+
+- Que el video abre con un niño empujando un carro o una bicicleta con cachivaches. Abre con casas de adobe y un chico que corre hacia su casa.
+- Que el niño anda en bicicleta en la «hora dorada». No hay ninguna bicicleta, y la mayor parte del video ocurre de noche o en interiores oscuros.
+- Que Milo J aparece de pie, mirando a la cámara, como narrador. Milo J no aparece en ningún plano.
+- Que el hermano es «robusto» y se filma de perfil para ocultar su rostro. Es delgado y su cara se ve muchas veces.
+- Que el niño está «ante la ausencia de los padres». La madre aparece (1:10).
+- Que la muerte del hermano se sugiere al no volver a mostrarlo. Se muestra explícitamente (2:54–3:06).
+- Que el final es de noche, con el niño solo en un encuadre desolado. El final es de día, en el cementerio, rodeado de gente, con el rosario y la mirada a cámara.
+
+Lo que sí coincide: el padre muerto, el hermano como guía, la muerte del hermano, los planos largos (el velorio y la tómbola son planos secuencia de casi 30 segundos) y el contraste entre la luz cálida y la noche.
 
 ## Pendiente
 
