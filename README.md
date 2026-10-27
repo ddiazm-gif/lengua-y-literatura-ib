@@ -37,7 +37,7 @@ Las entrevistas aportan contexto; el análisis debe demostrar los efectos de las
 - **Pendiente:** completar los números de viñeta de las citas de *Maus I* p. 156 y p. 85, que están resaltados en amarillo.
 - **Nota estimada con criterios IB:** unos 13 sobre 20, alrededor de un 5. El detalle está en [notas/evaluacion-ib-maus.md](notas/evaluacion-ib-maus.md).
 
-## Versiones
+### Versiones del ensayo de Maus
 
 | Archivo | Qué es |
 |---|---|
@@ -49,9 +49,46 @@ Las entrevistas aportan contexto; el análisis debe demostrar los efectos de las
 | `Ensayo Maus corregido v6.docx` | La v5 con cinco ajustes de reglas |
 | `Ensayo Maus corregido v7.docx` | La v6 sin la evidencia de la captura (p. 157) y con mejoras de argumentación |
 
-## Notas
+## Notas y materiales
+
+### Ensayo no literario (*Niño*)
+
+- [Análisis visual del videoclip](notas/analisis-video-nino.md): quién es quién, la historia minuto a minuto, propuestas de línea de indagación, tesis, teoría y evidencias.
+- [Lo que pide el profesor para el ENS no literario](notas/padlet-ens-no-literario.md): rúbrica, estructura, formato y por qué se analiza solo la imagen.
+- [Materiales de análisis no literario](notas/padlet-materiales-no-literarios.md): resumen de las fichas del Padlet sobre contexto, intención, código visual, efectos en el lector y enfoques teóricos.
+- [Fotogramas del video](video-nino/README.md): qué hay en cada carpeta de fotogramas y cómo se generaron.
+- [Textos completos del Padlet](padlet-textos/): una ficha por archivo, para consultar cuando el resumen no alcance.
+
+### Ensayo literario (*Maus*)
 
 - [Reglas del ensayo literario](notas/reglas-ensayo-literario.md): las reglas del profesor, cómo se aplicaron y un checklist para antes de entregar.
 - [Evaluación con criterios IB](notas/evaluacion-ib-maus.md): nota estimada, por qué no llega a 7 y plan para subirla.
-- [Errores y aprendizajes](notas/errores-y-aprendizajes.md): lo que falló en el ensayo y en el proceso de corrección.
-- [Detectores de IA](notas/detectores-de-ia.md): qué marcó GPTZero, sus límites y qué conviene hacer.
+- [Errores y aprendizajes](notas/errores-y-aprendizajes.md): lo que falló en el ensayo y en el proceso de corrección, y qué hacer distinto en el próximo.
+
+### Para cualquier ensayo
+
+- [Detectores de IA](notas/detectores-de-ia.md): qué marcó GPTZero, sus límites y qué conviene hacer. El reporte completo está en [notas/gptzero-v4.pdf](notas/gptzero-v4.pdf).
+
+## Estructura del repositorio
+
+```text
+.
+├── README.md
+├── CLAUDE.md                 instrucciones para asistentes de IA: cuenta de GitHub y forma de trabajo
+├── Ensayo Maus *.docx        el ensayo original y las versiones v2 a v7
+├── notas/                    reglas, evaluaciones, análisis y aprendizajes
+├── padlet-textos/            texto completo de las fichas del Padlet del curso
+├── video-nino/
+│   ├── nino.mp4              el videoclip
+│   └── fotogramas/           cada 3 segundos, desfasados, ampliaciones, verificación y complementarios
+└── herramientas/
+    └── padlet_dump.py        baja los adjuntos del Padlet y extrae su texto
+```
+
+Para regenerar los textos del Padlet: `python herramientas/padlet_dump.py <carpeta>`.
+
+## Cómo se trabaja aquí
+
+- Antes de corregir o revisar un ensayo, se leen las reglas y los aprendizajes de `notas/`.
+- Los ensayos los redacta el alumno. Los asistentes de IA revisan reglas, datos y formato, pero no reescriben textos para bajar el porcentaje de un detector.
+- Las credenciales nunca se guardan en archivos del repositorio.
